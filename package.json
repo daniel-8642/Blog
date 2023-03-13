@@ -11,7 +11,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.35",
-    "vue": "^3.2.45"
+    "vitepress": "^1.0.0-alpha.56",
+    "vue": "^v3.3.0-alpha.4"
   }
 }
