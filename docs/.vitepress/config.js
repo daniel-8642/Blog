@@ -1,12 +1,12 @@
 export default {
-    title: 'VitePress',
-    description: 'Just playing around.',
+    title: 'daniel的技术博客',
+    description: '技术分享',
     themeConfig: {
         sidebar: [
             {
-                text: 'Guide',
+                text: '简介',
                 items: [
-                    { text: '简介', link: '/' },
+                    { text: '首页', link: '/' },
                 ]
             },
             {
@@ -20,5 +20,6 @@ export default {
                 ]
             }
         ]
-    }
+    },
+    lastUpdated: true
 }
